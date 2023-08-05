@@ -1,22 +1,103 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on www6v的博客</title>
+    <title>Tags on PaperMod</title>
     <link>https://www6v.github.io/tags/</link>
-    <description>Recent content in Tags on www6v的博客</description>
+    <description>Recent content in Tags on PaperMod</description>
     <image>
-      <title>www6v的博客</title>
+      <title>PaperMod</title>
       <url>https://www6v.github.io/papermod-cover.png</url>
       <link>https://www6v.github.io/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www6v.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>PaperMod</title>
+      <link>https://www6v.github.io/tags/papermod/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www6v.github.io/tags/papermod/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Test</title>
       <link>https://www6v.github.io/tags/test/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www6v.github.io/tags/test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>css</title>
+      <link>https://www6v.github.io/tags/css/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www6v.github.io/tags/css/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>html</title>
+      <link>https://www6v.github.io/tags/html/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www6v.github.io/tags/html/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>markdown</title>
+      <link>https://www6v.github.io/tags/markdown/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www6v.github.io/tags/markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>themes</title>
+      <link>https://www6v.github.io/tags/themes/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www6v.github.io/tags/themes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>privacy</title>
+      <link>https://www6v.github.io/tags/privacy/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www6v.github.io/tags/privacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>shortcodes</title>
+      <link>https://www6v.github.io/tags/shortcodes/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www6v.github.io/tags/shortcodes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>text</title>
+      <link>https://www6v.github.io/tags/text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www6v.github.io/tags/text/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>emoji</title>
+      <link>https://www6v.github.io/tags/emoji/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www6v.github.io/tags/emoji/</guid>
       <description></description>
     </item>
     
