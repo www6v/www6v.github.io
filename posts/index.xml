@@ -12,57 +12,12 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www6v.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>my first blogs</title>
-      <link>https://www6v.github.io/posts/blog/</link>
+      <title>my test blog</title>
+      <link>https://www6v.github.io/posts/mytest/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://www6v.github.io/posts/blog/</guid>
-      <description>Learn About All Features in PaperMod</description>
-    </item>
-    
-    <item>
-      <title>Markdown Syntax Guide</title>
-      <link>https://www6v.github.io/posts/markdown-syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www6v.github.io/posts/markdown-syntax/</guid>
-      <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
-    </item>
-    
-    <item>
-      <title>Rich Content</title>
-      <link>https://www6v.github.io/posts/rich-content/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www6v.github.io/posts/rich-content/</guid>
-      <description>A brief description of Hugo Shortcodes</description>
-    </item>
-    
-    <item>
-      <title>Placeholder Text</title>
-      <link>https://www6v.github.io/posts/placeholder-text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www6v.github.io/posts/placeholder-text/</guid>
-      <description>Lorem Ipsum Dolor Si Amet</description>
-    </item>
-    
-    <item>
-      <title>Math Typesetting</title>
-      <link>https://www6v.github.io/posts/math-typesetting/</link>
-      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www6v.github.io/posts/math-typesetting/</guid>
-      <description>A brief guide to setup KaTeX</description>
-    </item>
-    
-    <item>
-      <title>Emoji Support</title>
-      <link>https://www6v.github.io/posts/emoji-support/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www6v.github.io/posts/emoji-support/</guid>
-      <description>Guide to emoji usage in Hugo</description>
+      <guid>https://www6v.github.io/posts/mytest/</guid>
+      <description>my test blog</description>
     </item>
     
   </channel>
