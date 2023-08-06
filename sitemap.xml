@@ -2,40 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www6v.github.io/posts/englishoral/</loc>
+    <loc>https://www6v.github.io/posts/phd/phdqualitativeresearch/</loc>
+    <lastmod>2022-08-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www6v.github.io/posts/phd/phdoffer/</loc>
+    <lastmod>2020-11-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www6v.github.io/posts/english/englishoral/</loc>
     <lastmod>2012-10-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www6v.github.io/posts/englishoral-2/</loc>
+    <loc>https://www6v.github.io/posts/english/englishoral-2/</loc>
     <lastmod>2012-03-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www6v.github.io/posts/englishoral-1/</loc>
+    <loc>https://www6v.github.io/posts/english/englishoral-1/</loc>
     <lastmod>2012-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www6v.github.io/posts/englishthinking/</loc>
+    <loc>https://www6v.github.io/posts/english/englishthinking/</loc>
     <lastmod>2012-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www6v.github.io/posts/englishinterview-1/</loc>
+    <loc>https://www6v.github.io/posts/english/englishinterview-1/</loc>
     <lastmod>2012-02-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www6v.github.io/posts/mytest/</loc>
     <lastmod>1900-01-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www6v.github.io/categories/</loc>
-    <lastmod>2012-10-11T00:00:00+00:00</lastmod>
+    <lastmod>2022-08-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www6v.github.io/tags/oral/</loc>
-    <lastmod>2012-10-11T00:00:00+00:00</lastmod>
+    <loc>https://www6v.github.io/tags/phd/</loc>
+    <lastmod>2022-08-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www6v.github.io/series/phd/</loc>
+    <lastmod>2022-08-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www6v.github.io/categories/phd/</loc>
+    <lastmod>2022-08-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www6v.github.io/posts/</loc>
-    <lastmod>2012-10-11T00:00:00+00:00</lastmod>
+    <lastmod>2022-08-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www6v.github.io/series/</loc>
-    <lastmod>2012-10-11T00:00:00+00:00</lastmod>
+    <lastmod>2022-08-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www6v.github.io/tags/</loc>
-    <lastmod>2012-10-11T00:00:00+00:00</lastmod>
+    <lastmod>2022-08-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www6v.github.io/</loc>
+    <lastmod>2022-08-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www6v.github.io/tags/oral/</loc>
     <lastmod>2012-10-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www6v.github.io/series/%E8%8B%B1%E8%AF%AD/</loc>
