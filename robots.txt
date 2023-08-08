@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://www6v.github.io/sitemap.xml
