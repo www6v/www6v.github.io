@@ -12,6 +12,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 30 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www6v.github.io/series/paper/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Paper 学习资源</title>
+      <link>https://www6v.github.io/posts/paper/paperstudy/</link>
+      <pubDate>Wed, 30 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www6v.github.io/posts/paper/paperstudy/</guid>
+      <description>Paper 学习资源</description>
+    </item>
+    
+    <item>
       <title>Paper-The Tail at Scale</title>
       <link>https://www6v.github.io/posts/paper/papertailatscale/</link>
       <pubDate>Wed, 30 Nov 2022 00:00:00 +0000</pubDate>
@@ -54,6 +63,15 @@
       
       <guid>https://www6v.github.io/posts/paper/dbtradeoff/</guid>
       <description>分布式数据库中一致性和可用性的权衡</description>
+    </item>
+    
+    <item>
+      <title>研究生论文(非最终版)</title>
+      <link>https://www6v.github.io/posts/paper/yan/yan/</link>
+      <pubDate>Tue, 21 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www6v.github.io/posts/paper/yan/yan/</guid>
+      <description>研究生论文(非最终版)</description>
     </item>
     
   </channel>
