@@ -10,7 +10,16 @@
       <link>https://www6v.github.io/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www6v.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www6v.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Paper</title>
+      <link>https://www6v.github.io/series/paper/</link>
+      <pubDate>Wed, 30 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www6v.github.io/series/paper/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>研发工具</title>
       <link>https://www6v.github.io/series/%E7%A0%94%E5%8F%91%E5%B7%A5%E5%85%B7/</link>
