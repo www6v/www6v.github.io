@@ -30,6 +30,15 @@
     </item>
     
     <item>
+      <title>Paper-阅读论文</title>
+      <link>https://www6v.github.io/posts/paper/paperreading/</link>
+      <pubDate>Sun, 30 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www6v.github.io/posts/paper/paperreading/</guid>
+      <description>Paper-阅读论文</description>
+    </item>
+    
+    <item>
       <title>画图工具</title>
       <link>https://www6v.github.io/posts/devtools/drawtools/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
@@ -180,15 +189,6 @@
       
       <guid>https://www6v.github.io/posts/finance/fund/</guid>
       <description>基金</description>
-    </item>
-    
-    <item>
-      <title>my test blog</title>
-      <link>https://www6v.github.io/posts/mytest/</link>
-      <pubDate>Sat, 20 Jan 1900 00:00:00 +0000</pubDate>
-      
-      <guid>https://www6v.github.io/posts/mytest/</guid>
-      <description>my test blog</description>
     </item>
     
   </channel>

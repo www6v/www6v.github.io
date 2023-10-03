@@ -8,6 +8,9 @@
     <loc>https://www6v.github.io/posts/paper/papertailatscale/</loc>
     <lastmod>2022-11-30T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://www6v.github.io/posts/paper/paperreading/</loc>
+    <lastmod>2022-10-30T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www6v.github.io/posts/devtools/drawtools/</loc>
     <lastmod>2022-09-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -59,9 +62,6 @@
     <loc>https://www6v.github.io/posts/finance/fund/</loc>
     <lastmod>2000-07-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www6v.github.io/posts/mytest/</loc>
-    <lastmod>1900-01-20T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www6v.github.io/categories/</loc>
     <lastmod>2022-11-30T00:00:00+00:00</lastmod>
   </url><url>
@@ -91,6 +91,12 @@
   </url><url>
     <loc>https://www6v.github.io/categories/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90/</loc>
     <lastmod>2022-11-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www6v.github.io/tags/reading/</loc>
+    <lastmod>2022-10-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www6v.github.io/categories/reading/</loc>
+    <lastmod>2022-10-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www6v.github.io/tags/%E7%94%BB%E5%9B%BE%E5%B7%A5%E5%85%B7/</loc>
     <lastmod>2022-09-01T00:00:00+00:00</lastmod>
@@ -178,21 +184,6 @@
   </url><url>
     <loc>https://www6v.github.io/series/%E9%87%91%E8%9E%8D/</loc>
     <lastmod>2000-07-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www6v.github.io/categories/test-categories1/</loc>
-    <lastmod>1900-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www6v.github.io/categories/test-categories2/</loc>
-    <lastmod>1900-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www6v.github.io/series/test-series/</loc>
-    <lastmod>1900-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www6v.github.io/tags/test1/</loc>
-    <lastmod>1900-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www6v.github.io/tags/test2/</loc>
-    <lastmod>1900-01-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www6v.github.io/archives/</loc>
   </url><url>

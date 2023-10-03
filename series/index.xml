@@ -65,14 +65,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title>Test series</title>
-      <link>https://www6v.github.io/series/test-series/</link>
-      <pubDate>Sat, 20 Jan 1900 00:00:00 +0000</pubDate>
-      
-      <guid>https://www6v.github.io/series/test-series/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>
