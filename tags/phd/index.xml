@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>PhD on www6v&#39;s Home</title>
+    <link>https://www6v.github.io/tags/phd/</link>
+    <description>Recent content in PhD on www6v&#39;s Home</description>
+    <image>
+      <title>www6v&#39;s Home</title>
+      <url>https://www6v.github.io/papermod-cover.png</url>
+      <link>https://www6v.github.io/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 02 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www6v.github.io/tags/phd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Qualitative Research 定性研究</title>
+      <link>https://www6v.github.io/posts/phd/phdqualitativeresearch-copy/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www6v.github.io/posts/phd/phdqualitativeresearch-copy/</guid>
+      <description>Qualitative Research 定性研究</description>
+    </item>
+    
+    <item>
+      <title>Qualitative Research 定性研究</title>
+      <link>https://www6v.github.io/posts/phd/phdqualitativeresearch/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www6v.github.io/posts/phd/phdqualitativeresearch/</guid>
+      <description>Qualitative Research 定性研究</description>
+    </item>
+    
+    <item>
+      <title>Ph.D. Offer</title>
+      <link>https://www6v.github.io/posts/phd/phdoffer/</link>
+      <pubDate>Sun, 08 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www6v.github.io/posts/phd/phdoffer/</guid>
+      <description>Ph.D. Offer</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Paper on www6v&#39;s Home</title>
+    <link>https://www6v.github.io/series/paper/</link>
+    <description>Recent content in Paper on www6v&#39;s Home</description>
+    <image>
+      <title>www6v&#39;s Home</title>
+      <url>https://www6v.github.io/papermod-cover.png</url>
+      <link>https://www6v.github.io/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 30 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www6v.github.io/series/paper/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Paper 学习资源</title>
+      <link>https://www6v.github.io/posts/paper/paperstudy/</link>
+      <pubDate>Wed, 30 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www6v.github.io/posts/paper/paperstudy/</guid>
+      <description>Paper 学习资源</description>
+    </item>
+    
+    <item>
+      <title>Paper-The Tail at Scale</title>
+      <link>https://www6v.github.io/posts/paper/papertailatscale/</link>
+      <pubDate>Wed, 30 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www6v.github.io/posts/paper/papertailatscale/</guid>
+      <description>Paper-The Tail at Scale</description>
+    </item>
+    
+    <item>
+      <title>Paper-阅读论文</title>
+      <link>https://www6v.github.io/posts/paper/paperreading/</link>
+      <pubDate>Sun, 30 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www6v.github.io/posts/paper/paperreading/</guid>
+      <description>Paper-阅读论文</description>
+    </item>
+    
+    <item>
+      <title>Paper-LSM Tree Survey</title>
+      <link>https://www6v.github.io/posts/paper/paperlsmtreesurvey/</link>
+      <pubDate>Sun, 12 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www6v.github.io/posts/paper/paperlsmtreesurvey/</guid>
+      <description>Paper-LSM Tree Survey</description>
+    </item>
+    
+    <item>
+      <title>Serverless Optimize</title>
+      <link>https://www6v.github.io/posts/paper/paperserverlessoptimize/</link>
+      <pubDate>Fri, 10 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www6v.github.io/posts/paper/paperserverlessoptimize/</guid>
+      <description>Serverless Optimize</description>
+    </item>
+    
+    <item>
+      <title>HTAP 综述</title>
+      <link>https://www6v.github.io/posts/paper/dbhtap/</link>
+      <pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www6v.github.io/posts/paper/dbhtap/</guid>
+      <description>HTAP 综述</description>
+    </item>
+    
+    <item>
+      <title>分布式数据库中一致性和可用性的权衡</title>
+      <link>https://www6v.github.io/posts/paper/dbtradeoff/</link>
+      <pubDate>Sun, 27 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www6v.github.io/posts/paper/dbtradeoff/</guid>
+      <description>分布式数据库中一致性和可用性的权衡</description>
+    </item>
+    
+    <item>
+      <title>研究生论文(非最终版)</title>
+      <link>https://www6v.github.io/posts/paper/yan/yan/</link>
+      <pubDate>Tue, 21 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www6v.github.io/posts/paper/yan/yan/</guid>
+      <description>研究生论文(非最终版)</description>
+    </item>
+    
+  </channel>
+</rss>

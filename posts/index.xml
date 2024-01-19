@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on www6v&#39;s Home</title>
+    <link>https://www6v.github.io/posts/</link>
+    <description>Recent content in Posts on www6v&#39;s Home</description>
+    <image>
+      <title>www6v&#39;s Home</title>
+      <url>https://www6v.github.io/papermod-cover.png</url>
+      <link>https://www6v.github.io/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 30 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www6v.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Paper 学习资源</title>
+      <link>https://www6v.github.io/posts/paper/paperstudy/</link>
+      <pubDate>Wed, 30 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www6v.github.io/posts/paper/paperstudy/</guid>
+      <description>Paper 学习资源</description>
+    </item>
+    
+    <item>
+      <title>Paper-The Tail at Scale</title>
+      <link>https://www6v.github.io/posts/paper/papertailatscale/</link>
+      <pubDate>Wed, 30 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www6v.github.io/posts/paper/papertailatscale/</guid>
+      <description>Paper-The Tail at Scale</description>
+    </item>
+    
+    <item>
+      <title>Paper-阅读论文</title>
+      <link>https://www6v.github.io/posts/paper/paperreading/</link>
+      <pubDate>Sun, 30 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www6v.github.io/posts/paper/paperreading/</guid>
+      <description>Paper-阅读论文</description>
+    </item>
+    
+    <item>
+      <title>画图工具</title>
+      <link>https://www6v.github.io/posts/devtools/drawtools/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www6v.github.io/posts/devtools/drawtools/</guid>
+      <description>画图工具</description>
+    </item>
+    
+    <item>
+      <title>Qualitative Research 定性研究</title>
+      <link>https://www6v.github.io/posts/phd/phdqualitativeresearch-copy/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www6v.github.io/posts/phd/phdqualitativeresearch-copy/</guid>
+      <description>Qualitative Research 定性研究</description>
+    </item>
+    
+    <item>
+      <title>Qualitative Research 定性研究</title>
+      <link>https://www6v.github.io/posts/phd/phdqualitativeresearch/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www6v.github.io/posts/phd/phdqualitativeresearch/</guid>
+      <description>Qualitative Research 定性研究</description>
+    </item>
+    
+    <item>
+      <title>Paper-LSM Tree Survey</title>
+      <link>https://www6v.github.io/posts/paper/paperlsmtreesurvey/</link>
+      <pubDate>Sun, 12 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www6v.github.io/posts/paper/paperlsmtreesurvey/</guid>
+      <description>Paper-LSM Tree Survey</description>
+    </item>
+    
+    <item>
+      <title>Serverless Optimize</title>
+      <link>https://www6v.github.io/posts/paper/paperserverlessoptimize/</link>
+      <pubDate>Fri, 10 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www6v.github.io/posts/paper/paperserverlessoptimize/</guid>
+      <description>Serverless Optimize</description>
+    </item>
+    
+    <item>
+      <title>HTAP 综述</title>
+      <link>https://www6v.github.io/posts/paper/dbhtap/</link>
+      <pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www6v.github.io/posts/paper/dbhtap/</guid>
+      <description>HTAP 综述</description>
+    </item>
+    
+    <item>
+      <title>vim</title>
+      <link>https://www6v.github.io/posts/devtools/vim/</link>
+      <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www6v.github.io/posts/devtools/vim/</guid>
+      <description>vim</description>
+    </item>
+    
+    <item>
+      <title>Ph.D. Offer</title>
+      <link>https://www6v.github.io/posts/phd/phdoffer/</link>
+      <pubDate>Sun, 08 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www6v.github.io/posts/phd/phdoffer/</guid>
+      <description>Ph.D. Offer</description>
+    </item>
+    
+    <item>
+      <title>IDEA 快捷键</title>
+      <link>https://www6v.github.io/posts/devtools/ideashortcut/</link>
+      <pubDate>Sun, 30 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www6v.github.io/posts/devtools/ideashortcut/</guid>
+      <description>IDEA 快捷键</description>
+    </item>
+    
+    <item>
+      <title>分布式数据库中一致性和可用性的权衡</title>
+      <link>https://www6v.github.io/posts/paper/dbtradeoff/</link>
+      <pubDate>Sun, 27 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www6v.github.io/posts/paper/dbtradeoff/</guid>
+      <description>分布式数据库中一致性和可用性的权衡</description>
+    </item>
+    
+    <item>
+      <title>研究生论文(非最终版)</title>
+      <link>https://www6v.github.io/posts/paper/yan/yan/</link>
+      <pubDate>Tue, 21 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www6v.github.io/posts/paper/yan/yan/</guid>
+      <description>研究生论文(非最终版)</description>
+    </item>
+    
+    <item>
+      <title>学习方法</title>
+      <link>https://www6v.github.io/posts/study/studymethod/</link>
+      <pubDate>Thu, 18 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www6v.github.io/posts/study/studymethod/</guid>
+      <description>学习方法</description>
+    </item>
+    
+    <item>
+      <title>English-Oral[basic]</title>
+      <link>https://www6v.github.io/posts/english/englishoral/</link>
+      <pubDate>Thu, 11 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www6v.github.io/posts/english/englishoral/</guid>
+      <description>English-Oral[basic]</description>
+    </item>
+    
+    <item>
+      <title>English-Oral[Sentence]</title>
+      <link>https://www6v.github.io/posts/english/englishoral-2/</link>
+      <pubDate>Mon, 26 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www6v.github.io/posts/english/englishoral-2/</guid>
+      <description>English-Oral[Sentence]</description>
+    </item>
+    
+    <item>
+      <title>English-Oral[Words]</title>
+      <link>https://www6v.github.io/posts/english/englishoral-1/</link>
+      <pubDate>Thu, 22 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www6v.github.io/posts/english/englishoral-1/</guid>
+      <description>English-Oral[Words]</description>
+    </item>
+    
+    <item>
+      <title>English-Thinking in English</title>
+      <link>https://www6v.github.io/posts/english/englishthinking/</link>
+      <pubDate>Thu, 22 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www6v.github.io/posts/english/englishthinking/</guid>
+      <description>English-Thinking in English</description>
+    </item>
+    
+    <item>
+      <title>English Interview-Q&amp;A</title>
+      <link>https://www6v.github.io/posts/english/englishinterview-1/</link>
+      <pubDate>Sat, 04 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www6v.github.io/posts/english/englishinterview-1/</guid>
+      <description>English Interview-Q&amp;amp;A</description>
+    </item>
+    
+    <item>
+      <title>基金</title>
+      <link>https://www6v.github.io/posts/finance/fund/</link>
+      <pubDate>Sat, 29 Jul 2000 00:00:00 +0000</pubDate>
+      
+      <guid>https://www6v.github.io/posts/finance/fund/</guid>
+      <description>基金</description>
+    </item>
+    
+  </channel>
+</rss>
